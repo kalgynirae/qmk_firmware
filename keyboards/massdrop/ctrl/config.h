@@ -125,3 +125,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGB_MATRIX_LED_FLUSH_LIMIT 10
 
 #include "config_led.h"
+
+#define LCPO_KEYS KC_LCTL, KC_TRNS, KC_ESC

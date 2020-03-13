@@ -73,3 +73,6 @@ __pycache__
 
 # prerequisites for updating ChibiOS
 /util/fmpp*
+
+applet-flash-samd51j18a.bin
+mdloader_linux
